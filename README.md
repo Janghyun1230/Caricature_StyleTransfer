@@ -5,8 +5,8 @@ Distort face image and perform style transfer to make caricature
 I use Korean Celeb face image. (http://www.wikitree.co.kr/main/news_view.php?id=288591)
 
 > Before & After of distortion  
-<img src=Images/87.jpg width="48">
-![Alt Text](Images/test_dist.jpg)
+<img src=Images/87.jpg width="100">
+<img src=Images/test_dist.jpg width="100">
 
 
 > After discretization of HSV representation of face image. (oil painting method)  
