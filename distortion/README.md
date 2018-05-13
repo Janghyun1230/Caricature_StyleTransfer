@@ -1,15 +1,15 @@
 This folder contains python files related to face distortion and landmark detection
 
-
-## Files explanation
-- landmark_detection 
-save the coordinates of face landmarks of face images.  
 For landmark detection, I used dlib package. (see landmark_detection.py)
 
-- distort_landmark
+## Files explanation
+- landmark_detection  
+save the coordinates of face landmarks of face images.  
+
+- distort_landmark  
 Implement distortion of face image using landmark coordinates and distortion function which I made. 
 
-- distort_function
+- distort_function  
 The distortion function which has width, height, curvature as parameter. (We can control the distortion by these parameters.)
 
 
