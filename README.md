@@ -9,8 +9,7 @@ I use Korean Celeb face image. (http://www.wikitree.co.kr/main/news_view.php?id=
 <img src=Images/87.jpg width="250"> <img src=Images/test_dist.jpg width="250">
 
 
-> oil painting method  
-By discretization of HSV representation of face image.
+> oil painting method (discretization of HSV representation of face image)
 
 <img src=Images/hsv_painting_sketch.JPG width="250">
 
