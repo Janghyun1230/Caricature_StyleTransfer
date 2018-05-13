@@ -4,10 +4,8 @@ Distort face image and perform style transfer to make caricature
 # Sample image
 I use Korean Celeb face image. (http://www.wikitree.co.kr/main/news_view.php?id=288591)
 
-> Before  
+> Before & After of distortion
 ![Alt Text](Images/87.jpg)
-
-> After distortion  
 ![Alt Text](Images/test_dist.jpg)
 
 
