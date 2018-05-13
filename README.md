@@ -14,9 +14,7 @@ By discretization of HSV representation of face image.
 
 
 > Style transfer  
-<img src=Images/cont2_style1_2_max.JPG width="200">
-<img src=Images/cont5_style2_3_max.JPG width="200">
-<img src=Images/cont2_style1_2_max_color.JPG width="200">
+<img src=Images/cont2_style1_2_max.JPG width="200"> <img src=Images/cont5_style2_3_max.JPG width="200"> <img src=Images/cont2_style1_2_max_color.JPG width="200">
 
 
 
