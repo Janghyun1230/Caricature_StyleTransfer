@@ -4,7 +4,7 @@ For landmark detection, I used dlib package. (see landmark_detection.py)
 
 ## Files explanation
 - landmark_detection  
-save the coordinates of face landmarks of face images.  
+Save the face landmarks coordinates of face images.  
 
 - distort_landmark  
 Implement distortion of face image using landmark coordinates and distortion function which I made. 
